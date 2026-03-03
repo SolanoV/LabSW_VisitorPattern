@@ -37,3 +37,4 @@ public class TelcoPromo {
 ```
 
 ## UML Class Diagram
+![UML Class Diagram Visitor Pattern](UMLCD_VisitorPattern.png)
